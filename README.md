@@ -2,4 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Estos combios son nuevos
+## Estos combios son nuevos desde mi repositorio local
